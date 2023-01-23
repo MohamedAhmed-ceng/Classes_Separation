@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\bin\Debug\net6.0\Classes_Separation.exe
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\bin\Debug\net6.0\Classes_Separation.deps.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\bin\Debug\net6.0\Classes_Separation.runtimeconfig.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\bin\Debug\net6.0\Classes_Separation.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\bin\Debug\net6.0\Classes_Separation.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.AssemblyInfo.cs
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\refint\Classes_Separation.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\Classes_Separation.genruntimeconfig.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Classes_Separation\obj\Debug\net6.0\ref\Classes_Separation.dll
